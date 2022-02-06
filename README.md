@@ -31,3 +31,5 @@ We must understand what components are necessary to crate data-driven culture in
 ## Machine learning
 
 Machine learning (ML) is the study of computer algorithms that can improve automatically through experience and by the use of data. t is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so. 
+
+![Machine Learning Timeline](images/timeline-of-machine-learning.jpg)
