@@ -3,7 +3,7 @@
 ## Data typology
 
 1. **People:** gustos, likes o preferencias, lugares que has visitado, personas con las que estás más tiempo.
-2. **Transactions:**S
+2. **Transactions:**
     * **Monetary:** pagos, cuanto pagas, en qué establecimiento, que producto o servicio obtienes.
     * **Not monetary:** por ejemplos tus llamadas telefónicas, cuánto duran, a quién le marcas, etc.
 3. **Web navigation:** Quién accede a las páginas web, de dónde son, clicks que das, cuánto tiempo duras en la página.
